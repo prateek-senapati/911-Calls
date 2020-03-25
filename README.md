@@ -8,6 +8,7 @@
 
 **DATA CAPSTONE PROJECT 1:** [911-Calls](01-911%20Calls%20Data%20Capstone%20Project.ipynb)
 
+  - **Description:** This capstone project uses data analysis and data visualization Python libraries to analyze the 911 Emergency Calls data of Montgomery County, PA, United States and create visualizations for important observations made during the analysis.
   - **Tools used:** [Jupyter Notebook](https://ipython.org/notebook.html)
   - **Dataset:** [Emergency - 911 Calls](https://www.kaggle.com/mchirico/montcoalert)
   - **Dataset source:** [Kaggle](https://www.kaggle.com/)
